@@ -16,8 +16,7 @@
 | **Logging**             | [Loki](https://grafana.com/oss/loki/) + Grafana                                                                                                   | OSS or CloudWatch Logs Free-Tier                                         |
 | **Testing**             | [pytest](https://docs.pytest.org/) + [HTTPX](https://www.python-httpx.org/) + [streamlit-testing](https://github.com/streamlit/streamlit-testing) | OSS                                                                      |
 | **Docs & ADRs**         | [MkDocs](https://www.mkdocs.org/) + Markdown + ADRs                                                                                               | Versioned in `/docs/`                                                    |
-| **Data Analytics & BI** | [Metabase](https://www.metabase.com/) / [Apache Superset](https://superset.apache.org/) / [AWS QuickSight](https://aws.amazon.com/quicksight/)    | OSS self-hosted on t2.micro or QuickSight free-tier (1 user, 1 GB SPICE) |
-     |
+| **Data Analytics & BI** | [Metabase](https://www.metabase.com/) / [Apache Superset](https://superset.apache.org/) / [AWS QuickSight](https://aws.amazon.com/quicksight/)    | OSS self-hosted on t2.micro or QuickSight free-tier (1 user, 1 GB SPICE) |  |
 | **Logging**          | [Loki](https://grafana.com/oss/loki/) + Grafana                                                                                                   | OSS or CloudWatch Logs Free-Tier              |
 | **Testing**          | [pytest](https://docs.pytest.org/) + [HTTPX](https://www.python-httpx.org/) + [streamlit-testing](https://github.com/streamlit/streamlit-testing) | OSS                                           |
 | **Docs & ADRs**      | [MkDocs](https://www.mkdocs.org/) + Markdown + Architecture Decision Records                                                                      | Versioned in `/docs/` and repo                |
