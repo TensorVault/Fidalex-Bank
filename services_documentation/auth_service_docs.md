@@ -205,8 +205,8 @@ The Authentication Service for **Fidalex Bank** is a secure and modular componen
 | Version      | v1.0                         |
 | Release Date | 2025-06-01                   |
 | Status       | ✅ Stable                     |
-| Owner        | Vishwas Bhushan              |
-| Maintainers  | Vishwas, Koushik (DB), Ashur |
+| Owner        | Ashur raju addanki           |
+| Maintainers  | Ashur raju Addanki |
 | Environments | Dev, Test, Prod              |
 
 ---
