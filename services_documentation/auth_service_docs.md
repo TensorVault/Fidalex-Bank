@@ -228,3 +228,4 @@ The Authentication Service for **Fidalex Bank** is a secure and modular componen
 * ERD Diagram: \[Available in DB Repo]
 * Swagger UI: `https://api.fidalexbank.com/docs`
 * Kubernetes Helm Chart: \[In Infra Repo]
+Ashur Raju Addanki
